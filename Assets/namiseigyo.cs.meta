@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da9f329f35a07724fa3a28115e983eab
+timeCreated: 1506484031
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nami: {instanceID: 0}
+  - NanoKontrol: {instanceID: 0}
+  - nami2: {fileID: 4800000, guid: 475c4a4e617a8401b84ca7b32c7cc460, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
